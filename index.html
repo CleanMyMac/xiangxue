@@ -14,7 +14,6 @@
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
     <link rel="apple-touch-icon" href="http://qn.media.epub360.com/book/icon/be9c07bdc8f4468b257083ff41d33b4d_origin_ZKViSrx.png">
-    <link rel="apple-touch-startup-image" href="http://qn.media.epub360.com/book/icon/be9c07bdc8f4468b257083ff41d33b4d_origin_ZKViSrx.png">
     <link rel="shortcut icon" href="http://v2.static.epub360.com/epub360.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
     
@@ -96,9 +95,23 @@ request_server.open('GET', request_url, true);
 request_server.send(null);
 </script>
 
-
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+    function audioAutoPlay() {
+        var audio = document.getElementById('bg-music');
+            audio.play();
+        document.addEventListener("WeixinJSBridgeReady", function () {
+            audio.play();
+        }, false);
+    }
+    audioAutoPlay();
+});
+</script>
 
 </head>
+<audio style="display:none; height: 0" id="bg-music" preload="auto" src="./epub360/7fcf2baa4d6ab6033b1d791a811587ca.mp3" loop="loop"></audio>
+
+
 <body class="template-player portaltype-interaction-photogallery site-demo section-pic build" style="background-color: #000000;">
 
 <div style="display:none;">

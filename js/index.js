@@ -12662,5 +12662,5 @@ var epub360_book_data = {
         "bg_picture": {}
     }
 };
-var bgsound_id = '143273769185036';
+var bgsound_id = '143273769185036',
  bgsound_src = './epub360/7fcf2baa4d6ab6033b1d791a811587ca.mp3';
