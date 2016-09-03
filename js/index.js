@@ -149,12 +149,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/f1b55f77eb1b11dd09848740ad17b309_origin.jpg",
+                            "picture": "./epub360/f1b55f77eb1b11dd09848740ad17b309_origin.jpg",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 166,
                             "title": "1.jpg",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/38608fbdc29c40fc00178b4edabd67f2_256.jpg",
+                            "thumbnail": "./epub360/38608fbdc29c40fc00178b4edabd67f2_256.jpg",
                             "height": 1136,
                             "width": 740,
                             "id": "Resources_23591436027464539"
@@ -204,7 +204,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/dae310489d8d0c00a8ff28583ad98f78_origin.png",
+                            "picture": "./epub360/dae310489d8d0c00a8ff28583ad98f78_origin.png",
                             "thumb_height": 151,
                             "description": "",
                             "thumb_width": 140,
@@ -212,7 +212,7 @@ var epub360_book_data = {
                             "height": 151,
                             "width": 140,
                             "id": "Resources_29231436027510763",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/dae310489d8d0c00a8ff28583ad98f78_origin.png"
+                            "thumbnail": "./epub360/dae310489d8d0c00a8ff28583ad98f78_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -259,12 +259,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/475d3b0d47ff070e1f42c7fdcde29180_origin.png",
+                            "picture": "./epub360/475d3b0d47ff070e1f42c7fdcde29180_origin.png",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 255,
                             "title": "10.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/7bb685c52af0ae08215839c453fbcc69_256.png",
+                            "thumbnail": "./epub360/7bb685c52af0ae08215839c453fbcc69_256.png",
                             "height": 498,
                             "width": 497,
                             "id": "Resources_26301436027493751"
@@ -314,12 +314,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/0767d772355fef742794c4f1e39f077a_origin.png",
+                            "picture": "./epub360/0767d772355fef742794c4f1e39f077a_origin.png",
                             "thumb_height": 186,
                             "description": "",
                             "thumb_width": 256,
                             "title": "11.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/1a2c9925e1bc1ee217c45b931a245854_256.png",
+                            "thumbnail": "./epub360/1a2c9925e1bc1ee217c45b931a245854_256.png",
                             "height": 248,
                             "width": 341,
                             "id": "Resources_36181436027615417"
@@ -369,12 +369,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/4cfc746112d918b9881b356231883da3_origin.png",
+                            "picture": "./epub360/4cfc746112d918b9881b356231883da3_origin.png",
                             "thumb_height": 230,
                             "description": "",
                             "thumb_width": 239,
                             "title": "12.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/4cfc746112d918b9881b356231883da3_origin.png",
+                            "thumbnail": "./epub360/4cfc746112d918b9881b356231883da3_origin.png",
                             "height": 230,
                             "width": 239,
                             "id": "Resources_35251436027608719"
@@ -424,7 +424,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/26f88cb7cdb32c80068e576127292c76_origin.png",
+                            "picture": "./epub360/26f88cb7cdb32c80068e576127292c76_origin.png",
                             "thumb_height": 110,
                             "description": "",
                             "thumb_width": 108,
@@ -432,7 +432,7 @@ var epub360_book_data = {
                             "height": 110,
                             "width": 108,
                             "id": "Resources_31051436027528563",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/26f88cb7cdb32c80068e576127292c76_origin.png"
+                            "thumbnail": "./epub360/26f88cb7cdb32c80068e576127292c76_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -589,12 +589,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/33bf0de41669fb32803dd590cdca4de0_origin.png",
+                            "picture": "./epub360/33bf0de41669fb32803dd590cdca4de0_origin.png",
                             "thumb_height": 65,
                             "description": "",
                             "thumb_width": 256,
                             "title": "1.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/71cf2887641a553783774734cddc464b_256.png",
+                            "thumbnail": "./epub360/71cf2887641a553783774734cddc464b_256.png",
                             "height": 106,
                             "width": 415,
                             "id": "Resources_32021436027550013"
@@ -644,7 +644,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png",
+                            "picture": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png",
                             "thumb_height": 160,
                             "description": "",
                             "thumb_width": 153,
@@ -652,7 +652,7 @@ var epub360_book_data = {
                             "height": 160,
                             "width": 153,
                             "id": "Resources_183191436001484489",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png"
+                            "thumbnail": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -699,7 +699,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/bcc35b14db2a9d5ca81fb8be14a01aaf_origin.png",
+                            "picture": "./epub360/bcc35b14db2a9d5ca81fb8be14a01aaf_origin.png",
                             "thumb_height": 254,
                             "description": "",
                             "thumb_width": 256,
@@ -707,7 +707,7 @@ var epub360_book_data = {
                             "height": 439,
                             "width": 442,
                             "id": "Resources_25411436027487852",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/e96f6c872f9d5126da23f49eec0a44b2_256.png"
+                            "thumbnail": "./epub360/e96f6c872f9d5126da23f49eec0a44b2_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -754,12 +754,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/0469c8186c76b7a9080591d3c5f20ac0_origin.png",
+                            "picture": "./epub360/0469c8186c76b7a9080591d3c5f20ac0_origin.png",
                             "thumb_height": 45,
                             "description": "",
                             "thumb_width": 256,
                             "title": "2.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/43a49e65528ce2b81cf45a55648f8e55_256.png",
+                            "thumbnail": "./epub360/43a49e65528ce2b81cf45a55648f8e55_256.png",
                             "height": 76,
                             "width": 431,
                             "id": "Resources_32911436027558738"
@@ -809,12 +809,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/ec1f90f38038f5a03e1e30eb46d78314_origin.png",
+                            "picture": "./epub360/ec1f90f38038f5a03e1e30eb46d78314_origin.png",
                             "thumb_height": 45,
                             "description": "",
                             "thumb_width": 256,
                             "title": "3.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/881411fb0baf6bba096f0fcfd225d1dc_256.png",
+                            "thumbnail": "./epub360/881411fb0baf6bba096f0fcfd225d1dc_256.png",
                             "height": 95,
                             "width": 539,
                             "id": "Resources_33801436027565214"
@@ -864,12 +864,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            //"picture": "http://qn.media.epub360.com/materials/origin/5d3355df4d3a4aad743e845b9fd175de_origin.png",
+                            //"picture": "./epub360/5d3355df4d3a4aad743e845b9fd175de_origin.png",
                             "thumb_height": 192,
                             "description": "",
                             "thumb_width": 174,
                             "title": "4.png",
-                            //"thumbnail": "http://qn.media.epub360.com/materials/origin/5d3355df4d3a4aad743e845b9fd175de_origin.png",
+                            //"thumbnail": "./epub360/5d3355df4d3a4aad743e845b9fd175de_origin.png",
                             "height": 192,
                             "width": 174,
                             "id": "Resources_135571436000265983"
@@ -924,7 +924,7 @@ var epub360_book_data = {
                             "description": "",
                             "thumb_width": 256,
                             "title": "15.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/4a6f84b831ee70c2f3a110a400944252_256.png",
+                            "thumbnail": "./epub360/4a6f84b831ee70c2f3a110a400944252_256.png",
                             "height": 70,
                             "width": 469,
                             "id": "Resources_40131436027691733"
@@ -979,7 +979,7 @@ var epub360_book_data = {
                             "description": "",
                             "thumb_width": 256,
                             "title": "16.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/02fb4e4ab1da855bc07b372aa1ea4964_256.png",
+                            "thumbnail": "./epub360/02fb4e4ab1da855bc07b372aa1ea4964_256.png",
                             "height": 45,
                             "width": 390,
                             "id": "Resources_41541436027709029"
@@ -2217,12 +2217,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/f1b55f77eb1b11dd09848740ad17b309_origin.jpg",
+                            "picture": "./epub360/f1b55f77eb1b11dd09848740ad17b309_origin.jpg",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 166,
                             "title": "1.jpg",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/38608fbdc29c40fc00178b4edabd67f2_256.jpg",
+                            "thumbnail": "./epub360/38608fbdc29c40fc00178b4edabd67f2_256.jpg",
                             "height": 1136,
                             "width": 740,
                             "id": "Resources_60551436028135412"
@@ -2272,12 +2272,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/7c8002959205b9d3741e628194a10fe8_origin.png",
+                            "picture": "./epub360/7c8002959205b9d3741e628194a10fe8_origin.png",
                             "thumb_height": 65,
                             "description": "",
                             "thumb_width": 256,
                             "title": "9.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/075f26f37f51fd3e5df0df45ef7621e7_256.png",
+                            "thumbnail": "./epub360/075f26f37f51fd3e5df0df45ef7621e7_256.png",
                             "height": 376,
                             "width": 1479,
                             "id": "Resources_198821436001806773"
@@ -2327,12 +2327,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/f273d8728b1a75156aeff510e54ddd6c_origin.png",
+                            "picture": "./epub360/f273d8728b1a75156aeff510e54ddd6c_origin.png",
                             "thumb_height": 118,
                             "description": "",
                             "thumb_width": 256,
                             "title": "4.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/dd380d36534ba4c06ba574374400ab0f_256.png",
+                            "thumbnail": "./epub360/dd380d36534ba4c06ba574374400ab0f_256.png",
                             "height": 228,
                             "width": 493,
                             "id": "Resources_89651432736215194"
@@ -2382,12 +2382,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/944f1caa2eac3b72e64201bd25244b9a_origin.png",
+                            "picture": "./epub360/944f1caa2eac3b72e64201bd25244b9a_origin.png",
                             "thumb_height": 79,
                             "description": "",
                             "thumb_width": 256,
                             "title": "2.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/57f11048284c69e036add507c1620ec0_256.png",
+                            "thumbnail": "./epub360/57f11048284c69e036add507c1620ec0_256.png",
                             "height": 91,
                             "width": 293,
                             "id": "Resources_65651436028180190"
@@ -2437,7 +2437,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/aceb02170b88cb0775568faefccbc68b_origin.png",
+                            "picture": "./epub360/aceb02170b88cb0775568faefccbc68b_origin.png",
                             "thumb_height": 223,
                             "description": "",
                             "thumb_width": 117,
@@ -2445,7 +2445,7 @@ var epub360_book_data = {
                             "height": 223,
                             "width": 117,
                             "id": "Resources_210991436001883463",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/aceb02170b88cb0775568faefccbc68b_origin.png"
+                            "thumbnail": "./epub360/aceb02170b88cb0775568faefccbc68b_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -2492,12 +2492,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/d349248558a63caaa99a68de89daefc3_origin.png",
+                            "picture": "./epub360/d349248558a63caaa99a68de89daefc3_origin.png",
                             "thumb_height": 146,
                             "description": "",
                             "thumb_width": 256,
                             "title": "6.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/4a50e16e5380b608adb40e72fdd1b837_256.png",
+                            "thumbnail": "./epub360/4a50e16e5380b608adb40e72fdd1b837_256.png",
                             "height": 153,
                             "width": 267,
                             "id": "Resources_93231432736239086"
@@ -2547,12 +2547,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png",
+                            "picture": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png",
                             "thumb_height": 156,
                             "description": "",
                             "thumb_width": 148,
                             "title": "7.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png",
+                            "thumbnail": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png",
                             "height": 156,
                             "width": 148,
                             "id": "Resources_92481432736235505"
@@ -2602,7 +2602,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png",
+                            "picture": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png",
                             "thumb_height": 160,
                             "description": "",
                             "thumb_width": 153,
@@ -2610,7 +2610,7 @@ var epub360_book_data = {
                             "height": 160,
                             "width": 153,
                             "id": "Resources_199671436001819108",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png"
+                            "thumbnail": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -2657,12 +2657,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/97ede3f7f86ec58b208f43d718328010_origin.png",
+                            "picture": "./epub360/97ede3f7f86ec58b208f43d718328010_origin.png",
                             "thumb_height": 52,
                             "description": "",
                             "thumb_width": 256,
                             "title": "1.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/4a3cc26e16f22c4d97233e974a7d4f39_256.png",
+                            "thumbnail": "./epub360/4a3cc26e16f22c4d97233e974a7d4f39_256.png",
                             "height": 68,
                             "width": 333,
                             "id": "Resources_66341436028184537"
@@ -2712,12 +2712,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/baf1e55c244299d4eb2cecb4c6ff3e91_origin.png",
+                            "picture": "./epub360/baf1e55c244299d4eb2cecb4c6ff3e91_origin.png",
                             "thumb_height": 38,
                             "description": "",
                             "thumb_width": 256,
                             "title": "3.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/335f2abe077133141e533e03d1efbbb8_256.png",
+                            "thumbnail": "./epub360/335f2abe077133141e533e03d1efbbb8_256.png",
                             "height": 81,
                             "width": 542,
                             "id": "Resources_64191436028163542"
@@ -2767,12 +2767,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/91e70c40521bbfa88670afc9ee324180_origin.png",
+                            "picture": "./epub360/91e70c40521bbfa88670afc9ee324180_origin.png",
                             "thumb_height": 111,
                             "description": "",
                             "thumb_width": 106,
                             "title": "8.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/91e70c40521bbfa88670afc9ee324180_origin.png",
+                            "thumbnail": "./epub360/91e70c40521bbfa88670afc9ee324180_origin.png",
                             "height": 111,
                             "width": 106,
                             "id": "Resources_211801436001888980"
@@ -2822,12 +2822,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/33f5b7401e0e15373324dad8425982a7_origin.png",
+                            "picture": "./epub360/33f5b7401e0e15373324dad8425982a7_origin.png",
                             "thumb_height": 254,
                             "description": "",
                             "thumb_width": 140,
                             "title": "6.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/33f5b7401e0e15373324dad8425982a7_origin.png",
+                            "thumbnail": "./epub360/33f5b7401e0e15373324dad8425982a7_origin.png",
                             "height": 254,
                             "width": 140,
                             "id": "Resources_212691436001897282"
@@ -2987,7 +2987,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/a6810a037e6ae642093ee2cd7f915089_origin.png",
+                            "picture": "./epub360/a6810a037e6ae642093ee2cd7f915089_origin.png",
                             "thumb_height": 108,
                             "description": "",
                             "thumb_width": 256,
@@ -2995,7 +2995,7 @@ var epub360_book_data = {
                             "height": 315,
                             "width": 740,
                             "id": "Resources_328451436003535050",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/d7944f14cee7c7502ff51e6cd882f016_256.png"
+                            "thumbnail": "./epub360/d7944f14cee7c7502ff51e6cd882f016_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -3050,7 +3050,7 @@ var epub360_book_data = {
                             "height": 70,
                             "width": 469,
                             "id": "Resources_40131436027691733",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/4a6f84b831ee70c2f3a110a400944252_256.png"
+                            "thumbnail": "./epub360/4a6f84b831ee70c2f3a110a400944252_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -3105,7 +3105,7 @@ var epub360_book_data = {
                             "height": 45,
                             "width": 390,
                             "id": "Resources_41541436027709029",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
+                            "thumbnail": "./epub360/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -4233,7 +4233,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/ca6e5bca7aec29cd5e7c29db1ffcfb38_origin.jpg",
+                            "picture": "./epub360/ca6e5bca7aec29cd5e7c29db1ffcfb38_origin.jpg",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 166,
@@ -4241,7 +4241,7 @@ var epub360_book_data = {
                             "height": 1136,
                             "width": 740,
                             "id": "Resources_79771436066652431",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/f940451cb4bc06515d5bc8c7c17116cc_256.jpg"
+                            "thumbnail": "./epub360/f940451cb4bc06515d5bc8c7c17116cc_256.jpg"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -4288,12 +4288,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/1fe80ad9afbc2eec2b359828e1cd7ba3_origin.png",
+                            "picture": "./epub360/1fe80ad9afbc2eec2b359828e1cd7ba3_origin.png",
                             "thumb_height": 92,
                             "description": "",
                             "thumb_width": 234,
                             "title": "5.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/1fe80ad9afbc2eec2b359828e1cd7ba3_origin.png",
+                            "thumbnail": "./epub360/1fe80ad9afbc2eec2b359828e1cd7ba3_origin.png",
                             "height": 92,
                             "width": 234,
                             "id": "Resources_91301436066826509"
@@ -4343,7 +4343,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/de4bbdacc2cc05ca86dfac3723d7c9b6_origin.png",
+                            "picture": "./epub360/de4bbdacc2cc05ca86dfac3723d7c9b6_origin.png",
                             "thumb_height": 50,
                             "description": "",
                             "thumb_width": 256,
@@ -4351,7 +4351,7 @@ var epub360_book_data = {
                             "height": 66,
                             "width": 333,
                             "id": "Resources_91951436066829292",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/458b2906a25e5f9e42c0318b11c8ad9d_256.png"
+                            "thumbnail": "./epub360/458b2906a25e5f9e42c0318b11c8ad9d_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -4398,12 +4398,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/4e3386267e80e9e93602f94d0469635f_origin.png",
+                            "picture": "./epub360/4e3386267e80e9e93602f94d0469635f_origin.png",
                             "thumb_height": 47,
                             "description": "",
                             "thumb_width": 256,
                             "title": "7.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/1b0a2cbf1034c17caf23edb39c93666d_256.png",
+                            "thumbnail": "./epub360/1b0a2cbf1034c17caf23edb39c93666d_256.png",
                             "height": 100,
                             "width": 542,
                             "id": "Resources_92601436066832148"
@@ -4453,12 +4453,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/104df27473714f3d1dbceca4d44f9bb2_origin.png",
+                            "picture": "./epub360/104df27473714f3d1dbceca4d44f9bb2_origin.png",
                             "thumb_height": 197,
                             "description": "",
                             "thumb_width": 256,
                             "title": "1.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/abb12050e57f3d4d79d73a3b8d436d0e_256.png",
+                            "thumbnail": "./epub360/abb12050e57f3d4d79d73a3b8d436d0e_256.png",
                             "height": 268,
                             "width": 348,
                             "id": "Resources_81151436066676868"
@@ -4626,7 +4626,7 @@ var epub360_book_data = {
                             "height": 70,
                             "width": 469,
                             "id": "Resources_40131436027691733",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/4a6f84b831ee70c2f3a110a400944252_256.png"
+                            "thumbnail": "./epub360/4a6f84b831ee70c2f3a110a400944252_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -4681,7 +4681,7 @@ var epub360_book_data = {
                             "height": 45,
                             "width": 390,
                             "id": "Resources_41541436027709029",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
+                            "thumbnail": "./epub360/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -4728,7 +4728,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png",
+                            "picture": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png",
                             "thumb_height": 156,
                             "description": "",
                             "thumb_width": 148,
@@ -4736,7 +4736,7 @@ var epub360_book_data = {
                             "height": 156,
                             "width": 148,
                             "id": "Resources_92481432736235505",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png"
+                            "thumbnail": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -4783,7 +4783,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png",
+                            "picture": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png",
                             "thumb_height": 160,
                             "description": "",
                             "thumb_width": 153,
@@ -4791,7 +4791,7 @@ var epub360_book_data = {
                             "height": 160,
                             "width": 153,
                             "id": "Resources_199671436001819108",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png"
+                            "thumbnail": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -5536,7 +5536,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/a7749aab3877527467d55ba8a2929b87_origin.jpg",
+                            "picture": "./epub360/a7749aab3877527467d55ba8a2929b87_origin.jpg",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 166,
@@ -5544,7 +5544,7 @@ var epub360_book_data = {
                             "height": 1136,
                             "width": 740,
                             "id": "Resources_118151436067019215",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/f0b3c399b796651efd0f31579b372a15_256.jpg"
+                            "thumbnail": "./epub360/f0b3c399b796651efd0f31579b372a15_256.jpg"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -5591,12 +5591,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/fd82ae3ae9c16800dc3e1ec6416a58d5_origin.png",
+                            "picture": "./epub360/fd82ae3ae9c16800dc3e1ec6416a58d5_origin.png",
                             "thumb_height": 43,
                             "description": "",
                             "thumb_width": 256,
                             "title": "5.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/ded1ada4f8c1b237ae24d21eb9022344_256.png",
+                            "thumbnail": "./epub360/ded1ada4f8c1b237ae24d21eb9022344_256.png",
                             "height": 96,
                             "width": 563,
                             "id": "Resources_121191436067056171"
@@ -5646,12 +5646,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/af2bd3edc6c0ad088d2e3e1beb0640ba_origin.png",
+                            "picture": "./epub360/af2bd3edc6c0ad088d2e3e1beb0640ba_origin.png",
                             "thumb_height": 36,
                             "description": "",
                             "thumb_width": 256,
                             "title": "6.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/dbe016223014a4e2be8c1185a22c90f8_256.png",
+                            "thumbnail": "./epub360/dbe016223014a4e2be8c1185a22c90f8_256.png",
                             "height": 65,
                             "width": 459,
                             "id": "Resources_121861436067059368"
@@ -5701,12 +5701,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/73fe46f332141ef5451babfed65dfb47_origin.png",
+                            "picture": "./epub360/73fe46f332141ef5451babfed65dfb47_origin.png",
                             "thumb_height": 44,
                             "description": "",
                             "thumb_width": 256,
                             "title": "7.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/bcf2db6ea9bc69a4aac682ac1c150fac_256.png",
+                            "thumbnail": "./epub360/bcf2db6ea9bc69a4aac682ac1c150fac_256.png",
                             "height": 83,
                             "width": 481,
                             "id": "Resources_122531436067062542"
@@ -5756,12 +5756,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png",
+                            "picture": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png",
                             "thumb_height": 156,
                             "description": "",
                             "thumb_width": 148,
                             "title": "7.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png",
+                            "thumbnail": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png",
                             "height": 156,
                             "width": 148,
                             "id": "Resources_92481432736235505"
@@ -5811,12 +5811,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png",
+                            "picture": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png",
                             "thumb_height": 160,
                             "description": "",
                             "thumb_width": 153,
                             "title": "22.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png",
+                            "thumbnail": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png",
                             "height": 160,
                             "width": 153,
                             "id": "Resources_199671436001819108"
@@ -5866,7 +5866,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/e9347e4e84560c4c888eb05a08fa3666_origin.png",
+                            "picture": "./epub360/e9347e4e84560c4c888eb05a08fa3666_origin.png",
                             "thumb_height": 202,
                             "description": "",
                             "thumb_width": 211,
@@ -5874,7 +5874,7 @@ var epub360_book_data = {
                             "height": 202,
                             "width": 211,
                             "id": "Resources_118821436067024143",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/e9347e4e84560c4c888eb05a08fa3666_origin.png"
+                            "thumbnail": "./epub360/e9347e4e84560c4c888eb05a08fa3666_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -6039,7 +6039,7 @@ var epub360_book_data = {
                             "height": 70,
                             "width": 469,
                             "id": "Resources_40131436027691733",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/4a6f84b831ee70c2f3a110a400944252_256.png"
+                            "thumbnail": "./epub360/4a6f84b831ee70c2f3a110a400944252_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -6094,7 +6094,7 @@ var epub360_book_data = {
                             "height": 45,
                             "width": 390,
                             "id": "Resources_41541436027709029",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
+                            "thumbnail": "./epub360/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -6931,7 +6931,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/2f20c1400cc981c48a210e23bf01421a_origin.jpg",
+                            "picture": "./epub360/2f20c1400cc981c48a210e23bf01421a_origin.jpg",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 166,
@@ -6939,7 +6939,7 @@ var epub360_book_data = {
                             "height": 1136,
                             "width": 740,
                             "id": "Resources_142281436067244311",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/ace17141073d083c8ac6896b2eae7f39_256.jpg"
+                            "thumbnail": "./epub360/ace17141073d083c8ac6896b2eae7f39_256.jpg"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -6986,12 +6986,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/7c8002959205b9d3741e628194a10fe8_origin.png",
+                            "picture": "./epub360/7c8002959205b9d3741e628194a10fe8_origin.png",
                             "thumb_height": 65,
                             "description": "",
                             "thumb_width": 256,
                             "title": "9.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/075f26f37f51fd3e5df0df45ef7621e7_256.png",
+                            "thumbnail": "./epub360/075f26f37f51fd3e5df0df45ef7621e7_256.png",
                             "height": 376,
                             "width": 1479,
                             "id": "Resources_198821436001806773"
@@ -7041,7 +7041,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/85ffddfda40544c97ed7828c626c3d72_origin.png",
+                            "picture": "./epub360/85ffddfda40544c97ed7828c626c3d72_origin.png",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 254,
@@ -7049,7 +7049,7 @@ var epub360_book_data = {
                             "height": 349,
                             "width": 347,
                             "id": "Resources_162521436067596386",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/6f41a98e2fb700628e84e5f2a6409c53_256.png"
+                            "thumbnail": "./epub360/6f41a98e2fb700628e84e5f2a6409c53_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -7096,12 +7096,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/1a7fa7cceac372eebe0152b5737e83c3_origin.png",
+                            "picture": "./epub360/1a7fa7cceac372eebe0152b5737e83c3_origin.png",
                             "thumb_height": 42,
                             "description": "",
                             "thumb_width": 256,
                             "title": "10.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/5ed6dad0bdc68dce6f58ce1ba144cd99_256.png",
+                            "thumbnail": "./epub360/5ed6dad0bdc68dce6f58ce1ba144cd99_256.png",
                             "height": 93,
                             "width": 563,
                             "id": "Resources_150471436067290161"
@@ -7151,12 +7151,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/8e5a4a81b8523c78a26c8e4fa19ea5a3_origin.png",
+                            "picture": "./epub360/8e5a4a81b8523c78a26c8e4fa19ea5a3_origin.png",
                             "thumb_height": 34,
                             "description": "",
                             "thumb_width": 256,
                             "title": "11.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/341ab46e6badb2a14e5979608a6fd2ad_256.png",
+                            "thumbnail": "./epub360/341ab46e6badb2a14e5979608a6fd2ad_256.png",
                             "height": 68,
                             "width": 499,
                             "id": "Resources_151221436067294022"
@@ -7206,12 +7206,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/f0ef8ad3ae7d32aba1a90ce065a9c934_origin.png",
+                            "picture": "./epub360/f0ef8ad3ae7d32aba1a90ce065a9c934_origin.png",
                             "thumb_height": 42,
                             "description": "",
                             "thumb_width": 256,
                             "title": "12.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/139d3241e8c5db46148e1ce9ba241b96_256.png",
+                            "thumbnail": "./epub360/139d3241e8c5db46148e1ce9ba241b96_256.png",
                             "height": 81,
                             "width": 490,
                             "id": "Resources_151971436067297181"
@@ -7261,7 +7261,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/43c5775fe111b1bcb372c3fd748db6e9_origin.png",
+                            "picture": "./epub360/43c5775fe111b1bcb372c3fd748db6e9_origin.png",
                             "thumb_height": 131,
                             "description": "",
                             "thumb_width": 131,
@@ -7269,7 +7269,7 @@ var epub360_book_data = {
                             "height": 131,
                             "width": 131,
                             "id": "Resources_155751436067341217",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/43c5775fe111b1bcb372c3fd748db6e9_origin.png"
+                            "thumbnail": "./epub360/43c5775fe111b1bcb372c3fd748db6e9_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -7316,7 +7316,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/43c5775fe111b1bcb372c3fd748db6e9_origin.png",
+                            "picture": "./epub360/43c5775fe111b1bcb372c3fd748db6e9_origin.png",
                             "thumb_height": 131,
                             "description": "",
                             "thumb_width": 131,
@@ -7324,7 +7324,7 @@ var epub360_book_data = {
                             "height": 131,
                             "width": 131,
                             "id": "Resources_156701436067352501",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/43c5775fe111b1bcb372c3fd748db6e9_origin.png"
+                            "thumbnail": "./epub360/43c5775fe111b1bcb372c3fd748db6e9_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -7371,7 +7371,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/a2738edae9f7ea9a1c1e00d6c87c18c8_origin.png",
+                            "picture": "./epub360/a2738edae9f7ea9a1c1e00d6c87c18c8_origin.png",
                             "thumb_height": 252,
                             "description": "",
                             "thumb_width": 256,
@@ -7379,7 +7379,7 @@ var epub360_book_data = {
                             "height": 286,
                             "width": 290,
                             "id": "Resources_148171436067271199",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/ab0115ae02fdab338b2be1b3330f4812_256.png"
+                            "thumbnail": "./epub360/ab0115ae02fdab338b2be1b3330f4812_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -7544,7 +7544,7 @@ var epub360_book_data = {
                             "height": 70,
                             "width": 469,
                             "id": "Resources_40131436027691733",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/4a6f84b831ee70c2f3a110a400944252_256.png"
+                            "thumbnail": "./epub360/4a6f84b831ee70c2f3a110a400944252_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -7599,7 +7599,7 @@ var epub360_book_data = {
                             "height": 45,
                             "width": 390,
                             "id": "Resources_41541436027709029",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
+                            "thumbnail": "./epub360/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -7646,12 +7646,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png",
+                            "picture": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png",
                             "thumb_height": 156,
                             "description": "",
                             "thumb_width": 148,
                             "title": "7.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png",
+                            "thumbnail": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png",
                             "height": 156,
                             "width": 148,
                             "id": "Resources_92481432736235505"
@@ -7701,7 +7701,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/2df1b155c496372020ed8bc55ef42e63_origin.png",
+                            "picture": "./epub360/2df1b155c496372020ed8bc55ef42e63_origin.png",
                             "thumb_height": 186,
                             "description": "",
                             "thumb_width": 256,
@@ -7709,7 +7709,7 @@ var epub360_book_data = {
                             "height": 208,
                             "width": 286,
                             "id": "Resources_171131436067737743",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/7d8c0d025b5746efe24c8e3c0d1e46ae_256.png"
+                            "thumbnail": "./epub360/7d8c0d025b5746efe24c8e3c0d1e46ae_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -7756,7 +7756,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/03145b072286ffa46258a1b75d5b42d5_origin.png",
+                            "picture": "./epub360/03145b072286ffa46258a1b75d5b42d5_origin.png",
                             "thumb_height": 161,
                             "description": "",
                             "thumb_width": 180,
@@ -7764,7 +7764,7 @@ var epub360_book_data = {
                             "height": 161,
                             "width": 180,
                             "id": "Resources_171981436067748239",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/03145b072286ffa46258a1b75d5b42d5_origin.png"
+                            "thumbnail": "./epub360/03145b072286ffa46258a1b75d5b42d5_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -7811,12 +7811,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png",
+                            "picture": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png",
                             "thumb_height": 160,
                             "description": "",
                             "thumb_width": 153,
                             "title": "22.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png",
+                            "thumbnail": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png",
                             "height": 160,
                             "width": 153,
                             "id": "Resources_199671436001819108"
@@ -8931,7 +8931,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/11d09fa15c1c09a7ef958fb3ea2b74d7_origin.jpg",
+                            "picture": "./epub360/11d09fa15c1c09a7ef958fb3ea2b74d7_origin.jpg",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 166,
@@ -8939,7 +8939,7 @@ var epub360_book_data = {
                             "height": 1136,
                             "width": 740,
                             "id": "Resources_184081436067994371",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/6cd9d3e5813b9f8d9bfa3f5df3cd695c_256.jpg"
+                            "thumbnail": "./epub360/6cd9d3e5813b9f8d9bfa3f5df3cd695c_256.jpg"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -8986,7 +8986,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/1c2e9be141e22fbaaa6fec5b724dfe1a_origin.png",
+                            "picture": "./epub360/1c2e9be141e22fbaaa6fec5b724dfe1a_origin.png",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 152,
@@ -8994,7 +8994,7 @@ var epub360_book_data = {
                             "height": 575,
                             "width": 343,
                             "id": "Resources_193901436068041176",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/d54ff25ff8fef080af6ce8daf020c471_256.png"
+                            "thumbnail": "./epub360/d54ff25ff8fef080af6ce8daf020c471_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -9041,12 +9041,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/65b8b41727e4aa29fcc074dff8c3e4b9_origin.png",
+                            "picture": "./epub360/65b8b41727e4aa29fcc074dff8c3e4b9_origin.png",
                             "thumb_height": 78,
                             "description": "",
                             "thumb_width": 256,
                             "title": "6.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/8af6921e4410827eafc2ecb82ac53227_256.png",
+                            "thumbnail": "./epub360/8af6921e4410827eafc2ecb82ac53227_256.png",
                             "height": 95,
                             "width": 308,
                             "id": "Resources_200191436068088863"
@@ -9096,7 +9096,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/3fb39a90509578e4ab9cc17d7e2ae53f_origin.png",
+                            "picture": "./epub360/3fb39a90509578e4ab9cc17d7e2ae53f_origin.png",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 162,
@@ -9104,7 +9104,7 @@ var epub360_book_data = {
                             "height": 304,
                             "width": 193,
                             "id": "Resources_203061436068143247",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/649615604cbf0d43ac32743a1229fc93_256.png"
+                            "thumbnail": "./epub360/649615604cbf0d43ac32743a1229fc93_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -9151,12 +9151,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/c24462a1c5b281b342e8c46030207cdf_origin.png",
+                            "picture": "./epub360/c24462a1c5b281b342e8c46030207cdf_origin.png",
                             "thumb_height": 55,
                             "description": "",
                             "thumb_width": 256,
                             "title": "7.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/2f892f9543fabf453cf37b90da426d49_256.png",
+                            "thumbnail": "./epub360/2f892f9543fabf453cf37b90da426d49_256.png",
                             "height": 64,
                             "width": 293,
                             "id": "Resources_199481436068084620"
@@ -9206,12 +9206,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/77beb1bb2491fda3e97639a28cdf21c7_origin.png",
+                            "picture": "./epub360/77beb1bb2491fda3e97639a28cdf21c7_origin.png",
                             "thumb_height": 41,
                             "description": "",
                             "thumb_width": 256,
                             "title": "8.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/2c96cc01953c0e90a1023540607b08db_256.png",
+                            "thumbnail": "./epub360/2c96cc01953c0e90a1023540607b08db_256.png",
                             "height": 84,
                             "width": 523,
                             "id": "Resources_196721436068067414"
@@ -9269,7 +9269,7 @@ var epub360_book_data = {
                             "height": 45,
                             "width": 390,
                             "id": "Resources_41541436027709029",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
+                            "thumbnail": "./epub360/02fb4e4ab1da855bc07b372aa1ea4964_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -9324,7 +9324,7 @@ var epub360_book_data = {
                             "height": 70,
                             "width": 469,
                             "id": "Resources_40131436027691733",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/4a6f84b831ee70c2f3a110a400944252_256.png"
+                            "thumbnail": "./epub360/4a6f84b831ee70c2f3a110a400944252_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -9371,12 +9371,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png",
+                            "picture": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png",
                             "thumb_height": 160,
                             "description": "",
                             "thumb_width": 153,
                             "title": "22.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/bb029f3cb177852159ae1261c073dc99_origin.png",
+                            "thumbnail": "./epub360/bb029f3cb177852159ae1261c073dc99_origin.png",
                             "height": 160,
                             "width": 153,
                             "id": "Resources_199671436001819108"
@@ -9426,7 +9426,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/aac42bd6bf8c86d0b6b9045bbc3585b3_origin.png",
+                            "picture": "./epub360/aac42bd6bf8c86d0b6b9045bbc3585b3_origin.png",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 217,
@@ -9434,7 +9434,7 @@ var epub360_book_data = {
                             "height": 265,
                             "width": 225,
                             "id": "Resources_192581436068020098",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/7011b1d1cf82275913917b872ac34a6a_256.png"
+                            "thumbnail": "./epub360/7011b1d1cf82275913917b872ac34a6a_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -9591,12 +9591,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png",
+                            "picture": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png",
                             "thumb_height": 156,
                             "description": "",
                             "thumb_width": 148,
                             "title": "7.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/b392b599c390898cd80abc8453ed8002_origin.png",
+                            "thumbnail": "./epub360/b392b599c390898cd80abc8453ed8002_origin.png",
                             "height": 156,
                             "width": 148,
                             "id": "Resources_92481432736235505"
@@ -9646,12 +9646,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/dae310489d8d0c00a8ff28583ad98f78_origin.png",
+                            "picture": "./epub360/dae310489d8d0c00a8ff28583ad98f78_origin.png",
                             "thumb_height": 151,
                             "description": "",
                             "thumb_width": 140,
                             "title": "7.png",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/dae310489d8d0c00a8ff28583ad98f78_origin.png",
+                            "thumbnail": "./epub360/dae310489d8d0c00a8ff28583ad98f78_origin.png",
                             "height": 151,
                             "width": 140,
                             "id": "Resources_29231436027510763"
@@ -10498,7 +10498,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/4cbd1fe7fcf2477ba34a6d28636293af_origin.jpg",
+                            "picture": "./epub360/4cbd1fe7fcf2477ba34a6d28636293af_origin.jpg",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 166,
@@ -10506,7 +10506,7 @@ var epub360_book_data = {
                             "height": 1136,
                             "width": 740,
                             "id": "Resources_235981436002299123",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/b82275034cc91a09d37bc6ca6dcbaa87_256.jpg"
+                            "thumbnail": "./epub360/b82275034cc91a09d37bc6ca6dcbaa87_256.jpg"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -10565,7 +10565,7 @@ var epub360_book_data = {
                             "iSettings": {},
                             "iResizable": false,
                             "width": 740,
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/691f59290c145ee58790ad47264f5df0_256.jpg",
+                            "thumbnail": "./epub360/691f59290c145ee58790ad47264f5df0_256.jpg",
                             "picture": "./img/1.jpg",
                             "iAutofocus": false,
                             "description": "",
@@ -10590,7 +10590,7 @@ var epub360_book_data = {
                             "iSettings": {},
                             "iResizable": false,
                             "width": 740,
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/8e4d58be1d496a62cc67cb59ce3474b3_256.jpg",
+                            "thumbnail": "./epub360/8e4d58be1d496a62cc67cb59ce3474b3_256.jpg",
                             "picture": "./img/2.jpg",
                             "iAutofocus": false,
                             "description": "",
@@ -10615,7 +10615,7 @@ var epub360_book_data = {
                             "iSettings": {},
                             "iResizable": false,
                             "width": 740,
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/6c9c64668e8f071a02968857833b2e2f_256.jpg",
+                            "thumbnail": "./epub360/6c9c64668e8f071a02968857833b2e2f_256.jpg",
                             "picture": "./img/3.jpg",
                             "iAutofocus": false,
                             "description": "",
@@ -10682,7 +10682,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/bd59334285f159b600114d054e40f491_origin.png",
+                            "picture": "./epub360/bd59334285f159b600114d054e40f491_origin.png",
                             "thumb_height": 101,
                             "description": "",
                             "thumb_width": 256,
@@ -10690,7 +10690,7 @@ var epub360_book_data = {
                             "height": 262,
                             "width": 661,
                             "id": "Resources_240421436002349183",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/ea2e68243f014ae9cfaf68bc8798991a_256.png"
+                            "thumbnail": "./epub360/ea2e68243f014ae9cfaf68bc8798991a_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -10737,7 +10737,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/02628b2d87887dac91d22c557610e222_origin.png",
+                            "picture": "./epub360/02628b2d87887dac91d22c557610e222_origin.png",
                             "thumb_height": 251,
                             "description": "",
                             "thumb_width": 206,
@@ -10745,7 +10745,7 @@ var epub360_book_data = {
                             "height": 251,
                             "width": 206,
                             "id": "Resources_242221436002368726",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/02628b2d87887dac91d22c557610e222_origin.png"
+                            "thumbnail": "./epub360/02628b2d87887dac91d22c557610e222_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -10792,7 +10792,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/da68117a862a7b64bc4dc3319725bf00_origin.png",
+                            "picture": "./epub360/da68117a862a7b64bc4dc3319725bf00_origin.png",
                             "thumb_height": 98,
                             "description": "",
                             "thumb_width": 256,
@@ -10800,7 +10800,7 @@ var epub360_book_data = {
                             "height": 286,
                             "width": 740,
                             "id": "Resources_241321436002361031",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/070ebb8a072adfa208bf6f8e4fa63d1c_256.png"
+                            "thumbnail": "./epub360/070ebb8a072adfa208bf6f8e4fa63d1c_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -10847,7 +10847,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/4a00ec6e12590f5e2ceb21bdb5283f32_origin.png",
+                            "picture": "./epub360/4a00ec6e12590f5e2ceb21bdb5283f32_origin.png",
                             "thumb_height": 209,
                             "description": "",
                             "thumb_width": 256,
@@ -10855,7 +10855,7 @@ var epub360_book_data = {
                             "height": 243,
                             "width": 297,
                             "id": "Resources_244941436002403203",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/e15687b8caee0ebae04ae7b19c784077_256.png"
+                            "thumbnail": "./epub360/e15687b8caee0ebae04ae7b19c784077_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -10902,7 +10902,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/453ddefd6bda05cfbcb4967ce319d0eb_origin.png",
+                            "picture": "./epub360/453ddefd6bda05cfbcb4967ce319d0eb_origin.png",
                             "thumb_height": 217,
                             "description": "",
                             "thumb_width": 201,
@@ -10910,7 +10910,7 @@ var epub360_book_data = {
                             "height": 217,
                             "width": 201,
                             "id": "Resources_245921436002413738",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/453ddefd6bda05cfbcb4967ce319d0eb_origin.png"
+                            "thumbnail": "./epub360/453ddefd6bda05cfbcb4967ce319d0eb_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -10957,7 +10957,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/6e0380d1323bd2cc66ce27c8714354b1_origin.png",
+                            "picture": "./epub360/6e0380d1323bd2cc66ce27c8714354b1_origin.png",
                             "thumb_height": 129,
                             "description": "",
                             "thumb_width": 248,
@@ -10965,7 +10965,7 @@ var epub360_book_data = {
                             "height": 129,
                             "width": 248,
                             "id": "Resources_246881436002421059",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/6e0380d1323bd2cc66ce27c8714354b1_origin.png"
+                            "thumbnail": "./epub360/6e0380d1323bd2cc66ce27c8714354b1_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -11012,7 +11012,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/797871d1cce02560d6bb42c73d3745f2_origin.png",
+                            "picture": "./epub360/797871d1cce02560d6bb42c73d3745f2_origin.png",
                             "thumb_height": 87,
                             "description": "",
                             "thumb_width": 256,
@@ -11020,7 +11020,7 @@ var epub360_book_data = {
                             "height": 214,
                             "width": 629,
                             "id": "Resources_247841436002432052",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/3e8d8c8ab14419c61f7a33cf7c6c4c1a_256.png"
+                            "thumbnail": "./epub360/3e8d8c8ab14419c61f7a33cf7c6c4c1a_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -11122,12 +11122,12 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            //"picture": "http://qn.media.epub360.com/materials/origin/e7a3123cab8a3041efe1ead7f5458d6c_origin.png",
+                            //"picture": "./epub360/e7a3123cab8a3041efe1ead7f5458d6c_origin.png",
                             "thumb_height": 72,
                             "description": "",
                             "thumb_width": 162,
                             "title": "15.png",
-                            //"thumbnail": "http://qn.media.epub360.com/materials/origin/e7a3123cab8a3041efe1ead7f5458d6c_origin.png",
+                            //"thumbnail": "./epub360/e7a3123cab8a3041efe1ead7f5458d6c_origin.png",
                             "height": 72,
                             "width": 162,
                             "id": "Resources_249761436002446510"
@@ -11177,7 +11177,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/a53504dd31fbfbf5e020bfe884560b9a_origin.png",
+                            "picture": "./epub360/a53504dd31fbfbf5e020bfe884560b9a_origin.png",
                             "thumb_height": 62,
                             "description": "",
                             "thumb_width": 156,
@@ -11185,7 +11185,7 @@ var epub360_book_data = {
                             "height": 62,
                             "width": 156,
                             "id": "Resources_250901436002457024",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/a53504dd31fbfbf5e020bfe884560b9a_origin.png"
+                            "thumbnail": "./epub360/a53504dd31fbfbf5e020bfe884560b9a_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -11240,7 +11240,7 @@ var epub360_book_data = {
                             "height": 36,
                             "width": 336,
                             "id": "Resources_252001436002473426",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/3d089d5a9288384eda1060be22bd7855_256.png"
+                            "thumbnail": "./epub360/3d089d5a9288384eda1060be22bd7855_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -11287,7 +11287,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/0fe444f201f5f84d61f631572323cbc2_origin.png",
+                            "picture": "./epub360/0fe444f201f5f84d61f631572323cbc2_origin.png",
                             "thumb_height": 159,
                             "description": "",
                             "thumb_width": 78,
@@ -11295,7 +11295,7 @@ var epub360_book_data = {
                             "height": 159,
                             "width": 78,
                             "id": "Resources_253081436002487455",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/0fe444f201f5f84d61f631572323cbc2_origin.png"
+                            "thumbnail": "./epub360/0fe444f201f5f84d61f631572323cbc2_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -11342,7 +11342,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/44353fbdc80c94e35ecb0104564d871e_origin.png",
+                            "picture": "./epub360/44353fbdc80c94e35ecb0104564d871e_origin.png",
                             "thumb_height": 161,
                             "description": "",
                             "thumb_width": 86,
@@ -11350,7 +11350,7 @@ var epub360_book_data = {
                             "height": 161,
                             "width": 86,
                             "id": "Resources_254141436002498383",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/44353fbdc80c94e35ecb0104564d871e_origin.png"
+                            "thumbnail": "./epub360/44353fbdc80c94e35ecb0104564d871e_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -11507,7 +11507,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/73ed35d70d69bb55b825afe9447eb9fe_origin.png",
+                            "picture": "./epub360/73ed35d70d69bb55b825afe9447eb9fe_origin.png",
                             "thumb_height": 75,
                             "description": "",
                             "thumb_width": 79,
@@ -11515,7 +11515,7 @@ var epub360_book_data = {
                             "height": 75,
                             "width": 79,
                             "id": "Resources_257141436002526273",
-                            "thumbnail": "http://qn.media.epub360.com/materials/origin/73ed35d70d69bb55b825afe9447eb9fe_origin.png"
+                            "thumbnail": "./epub360/73ed35d70d69bb55b825afe9447eb9fe_origin.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -11562,7 +11562,7 @@ var epub360_book_data = {
                         "iAdapt": false,
                         "dragstart": 0,
                         "iImg": [{
-                            "picture": "http://qn.media.epub360.com/materials/origin/4b3a559c825f7885b32ca646651611f4_origin.png",
+                            "picture": "./epub360/4b3a559c825f7885b32ca646651611f4_origin.png",
                             "thumb_height": 256,
                             "description": "",
                             "thumb_width": 166,
@@ -11570,7 +11570,7 @@ var epub360_book_data = {
                             "height": 1136,
                             "width": 740,
                             "id": "Resources_340741436003733273",
-                            "thumbnail": "http://qn.media.epub360.com/materials/thumb/3cd66f4a74734ad796d9c7d4a4480e0c_256.png"
+                            "thumbnail": "./epub360/3cd66f4a74734ad796d9c7d4a4480e0c_256.png"
                         }],
                         "iAnimation": [],
                         "iHidden": false
@@ -12132,7 +12132,7 @@ var epub360_book_data = {
                         "title": "格式工厂123.mp3",
                         "height": 200,
                         "width": 200,
-                        "file": "http://qn.media.epub360.com/materials/audio/7fcf2baa4d6ab6033b1d791a811587ca.mp3",
+                        "file": "./epub360/7fcf2baa4d6ab6033b1d791a811587ca.mp3",
                         "id": "Resources_118461432737703765",
                         "thumbnail": "/staticfs/admin-epub360/img/thumb_audio.png"
                     }],
@@ -12185,12 +12185,12 @@ var epub360_book_data = {
                     "iAdapt": false,
                     "dragstart": 0,
                     "iImg": [{
-                        "picture": "http://qn.media.epub360.com/materials/origin/a6810a037e6ae642093ee2cd7f915089_origin.png",
+                        "picture": "./epub360/a6810a037e6ae642093ee2cd7f915089_origin.png",
                         "thumb_height": 108,
                         "description": "",
                         "thumb_width": 256,
                         "title": "16.png",
-                        "thumbnail": "http://qn.media.epub360.com/materials/thumb/d7944f14cee7c7502ff51e6cd882f016_256.png",
+                        "thumbnail": "./epub360/d7944f14cee7c7502ff51e6cd882f016_256.png",
                         "height": 315,
                         "width": 740,
                         "id": "Resources_148621436000382014"
@@ -12241,12 +12241,12 @@ var epub360_book_data = {
                     "iAdapt": false,
                     "dragstart": 0,
                     "iImg": [{
-                        "picture": "http://qn.media.epub360.com/materials/origin/6f23f5075697bc249c0760eab23079bc_origin.png",
+                        "picture": "./epub360/6f23f5075697bc249c0760eab23079bc_origin.png",
                         "thumb_height": 51,
                         "description": "",
                         "thumb_width": 68,
                         "title": "12.png",
-                        "thumbnail": "http://qn.media.epub360.com/materials/origin/6f23f5075697bc249c0760eab23079bc_origin.png",
+                        "thumbnail": "./epub360/6f23f5075697bc249c0760eab23079bc_origin.png",
                         "height": 51,
                         "width": 68,
                         "id": "Resources_348771436004133966"
@@ -12297,12 +12297,12 @@ var epub360_book_data = {
                     "iAdapt": false,
                     "dragstart": 0,
                     "iImg": [{
-                        "picture": "http://qn.media.epub360.com/materials/origin/6f23f5075697bc249c0760eab23079bc_origin.png",
+                        "picture": "./epub360/6f23f5075697bc249c0760eab23079bc_origin.png",
                         "thumb_height": 51,
                         "description": "",
                         "thumb_width": 68,
                         "title": "12.png",
-                        "thumbnail": "http://qn.media.epub360.com/materials/origin/6f23f5075697bc249c0760eab23079bc_origin.png",
+                        "thumbnail": "./epub360/6f23f5075697bc249c0760eab23079bc_origin.png",
                         "height": 51,
                         "width": 68,
                         "id": "Resources_348771436004133966"
@@ -12353,12 +12353,12 @@ var epub360_book_data = {
                     "iAdapt": false,
                     "dragstart": 0,
                     "iImg": [{
-                        "picture": "http://qn.media.epub360.com/materials/origin/6f23f5075697bc249c0760eab23079bc_origin.png",
+                        "picture": "./epub360/6f23f5075697bc249c0760eab23079bc_origin.png",
                         "thumb_height": 51,
                         "description": "",
                         "thumb_width": 68,
                         "title": "12.png",
-                        "thumbnail": "http://qn.media.epub360.com/materials/origin/6f23f5075697bc249c0760eab23079bc_origin.png",
+                        "thumbnail": "./epub360/6f23f5075697bc249c0760eab23079bc_origin.png",
                         "height": 51,
                         "width": 68,
                         "id": "Resources_348771436004133966"
@@ -12662,5 +12662,5 @@ var epub360_book_data = {
         "bg_picture": {}
     }
 };
-var bgsound_id = '143273769185036',
-bgsound_src = 'http://qn.media.epub360.com/materials/audio/7fcf2baa4d6ab6033b1d791a811587ca.mp3';
+var bgsound_id = '143273769185036';
+ bgsound_src = './epub360/7fcf2baa4d6ab6033b1d791a811587ca.mp3';
